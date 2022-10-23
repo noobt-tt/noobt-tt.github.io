@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on noobt-tt</title><link>https://noobt-tt.github.io/tags/</link><description>Recent content in Tags on noobt-tt</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://noobt-tt.github.io/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on noobt-tt</title>
+    <link>https://noobt-tt.github.io/tags/</link>
+    <description>Recent content in Tags on noobt-tt</description>
+    <image>
+      <url>https://noobt-tt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://noobt-tt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 23 Oct 2022 23:26:42 +0800</lastBuildDate><atom:link href="https://noobt-tt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mood</title>
+      <link>https://noobt-tt.github.io/tags/mood/</link>
+      <pubDate>Sun, 23 Oct 2022 23:26:42 +0800</pubDate>
+      
+      <guid>https://noobt-tt.github.io/tags/mood/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
