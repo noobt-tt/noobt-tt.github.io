@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://noobt-tt.github.io/life/</loc>
-    <lastmod>2023-01-05T18:55:09+08:00</lastmod>
+    <loc>https://noobt-tt.github.io/categories/</loc>
+    <lastmod>2023-01-05T20:55:11+08:00</lastmod>
   </url><url>
     <loc>https://noobt-tt.github.io/</loc>
-    <lastmod>2023-01-05T18:55:09+08:00</lastmod>
+    <lastmod>2023-01-05T20:55:11+08:00</lastmod>
   </url><url>
-    <loc>https://noobt-tt.github.io/life/test/</loc>
-    <lastmod>2023-01-05T18:55:09+08:00</lastmod>
+    <loc>https://noobt-tt.github.io/study/</loc>
+    <lastmod>2023-01-05T20:55:11+08:00</lastmod>
   </url><url>
-    <loc>https://noobt-tt.github.io/categories/</loc>
-    <lastmod>2022-10-23T23:26:42+08:00</lastmod>
+    <loc>https://noobt-tt.github.io/categories/study/</loc>
+    <lastmod>2023-01-05T20:55:11+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/tags/</loc>
+    <lastmod>2023-01-05T20:55:11+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/tags/teacher-qualification-certificate/</loc>
+    <lastmod>2023-01-05T20:55:11+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/study/%E6%95%99%E8%B5%84%E7%B3%BB%E5%88%97---%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87/</loc>
+    <lastmod>2023-01-05T20:55:11+08:00</lastmod>
   </url><url>
     <loc>https://noobt-tt.github.io/life/first/</loc>
     <lastmod>2022-10-23T23:26:42+08:00</lastmod>
@@ -20,10 +29,10 @@
     <loc>https://noobt-tt.github.io/categories/life/</loc>
     <lastmod>2022-10-23T23:26:42+08:00</lastmod>
   </url><url>
-    <loc>https://noobt-tt.github.io/tags/mood/</loc>
+    <loc>https://noobt-tt.github.io/life/</loc>
     <lastmod>2022-10-23T23:26:42+08:00</lastmod>
   </url><url>
-    <loc>https://noobt-tt.github.io/tags/</loc>
+    <loc>https://noobt-tt.github.io/tags/mood/</loc>
     <lastmod>2022-10-23T23:26:42+08:00</lastmod>
   </url><url>
     <loc>https://noobt-tt.github.io/archives/</loc>
