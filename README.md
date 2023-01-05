@@ -1,2 +1,2 @@
 # noobt-tt.github.io
-xiaoli's log
+xiaoli's writing log
