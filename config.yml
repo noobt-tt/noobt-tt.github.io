@@ -1,4 +1,4 @@
-hugozzbaseURL: "https://noobt-tt.github.io"
+baseURL: "https://noobt-tt.github.io"
 title: noobt-tt
 paginate: 5
 theme: PaperMod
