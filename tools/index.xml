@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tools on noobt-tt</title>
+    <link>https://noobt-tt.github.io/tools/</link>
+    <description>Recent content in Tools on noobt-tt</description>
+    <image>
+      <url>https://noobt-tt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://noobt-tt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Feb 2023 17:45:42 +0800</lastBuildDate><atom:link href="https://noobt-tt.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iterm2--踩坑记录</title>
+      <link>https://noobt-tt.github.io/tools/iterm2_hole/</link>
+      <pubDate>Thu, 02 Feb 2023 17:45:42 +0800</pubDate>
+      
+      <guid>https://noobt-tt.github.io/tools/iterm2_hole/</guid>
+      <description>[toc]
+问题 1. rz上传文件成功，但是在当前目录无法找到所上传文件 rz上传文件至服务器时，默认会上传到当前目录。
+若显示上传成功，但无法找到该文件，与连接服务器的方式有关。
+检查是否连接时使用了expect脚本，需要修改为: ssh xxx.xxx.xxx 的连接方式。</description>
+    </item>
+    
+  </channel>
+</rss>
