@@ -10,16 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Dec 2023 17:02:14 +0800</lastBuildDate><atom:link href="https://noobt-tt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>life</title>
-      <link>https://noobt-tt.github.io/categories/life/</link>
-      <pubDate>Thu, 07 Dec 2023 17:02:14 +0800</pubDate>
-      
-      <guid>https://noobt-tt.github.io/categories/life/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 02 Feb 2023 17:45:42 +0800</lastBuildDate><atom:link href="https://noobt-tt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tools</title>
       <link>https://noobt-tt.github.io/categories/tools/</link>
@@ -35,6 +26,15 @@
       <pubDate>Thu, 05 Jan 2023 20:55:11 +0800</pubDate>
       
       <guid>https://noobt-tt.github.io/categories/study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://noobt-tt.github.io/categories/life/</link>
+      <pubDate>Sun, 23 Oct 2022 23:26:42 +0800</pubDate>
+      
+      <guid>https://noobt-tt.github.io/categories/life/</guid>
       <description></description>
     </item>
     

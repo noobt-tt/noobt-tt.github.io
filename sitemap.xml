@@ -2,34 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://noobt-tt.github.io/life/202231207/</loc>
-    <lastmod>2023-12-07T17:02:14+08:00</lastmod>
-  </url><url>
-    <loc>https://noobt-tt.github.io/life/2022312071/</loc>
-    <lastmod>2023-12-07T17:02:14+08:00</lastmod>
-  </url><url>
     <loc>https://noobt-tt.github.io/categories/</loc>
-    <lastmod>2023-12-07T17:02:14+08:00</lastmod>
-  </url><url>
-    <loc>https://noobt-tt.github.io/categories/life/</loc>
-    <lastmod>2023-12-07T17:02:14+08:00</lastmod>
-  </url><url>
-    <loc>https://noobt-tt.github.io/life/</loc>
-    <lastmod>2023-12-07T17:02:14+08:00</lastmod>
-  </url><url>
-    <loc>https://noobt-tt.github.io/tags/mood/</loc>
-    <lastmod>2023-12-07T17:02:14+08:00</lastmod>
-  </url><url>
-    <loc>https://noobt-tt.github.io/</loc>
-    <lastmod>2023-12-07T17:02:14+08:00</lastmod>
-  </url><url>
-    <loc>https://noobt-tt.github.io/tags/</loc>
-    <lastmod>2023-12-07T17:02:14+08:00</lastmod>
+    <lastmod>2023-02-02T17:45:42+08:00</lastmod>
   </url><url>
     <loc>https://noobt-tt.github.io/tools/iterm2_hole/</loc>
     <lastmod>2023-02-02T17:45:42+08:00</lastmod>
   </url><url>
     <loc>https://noobt-tt.github.io/tags/iterm2-use/</loc>
+    <lastmod>2023-02-02T17:45:42+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/</loc>
+    <lastmod>2023-02-02T17:45:42+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/tags/</loc>
     <lastmod>2023-02-02T17:45:42+08:00</lastmod>
   </url><url>
     <loc>https://noobt-tt.github.io/categories/tools/</loc>
@@ -51,6 +36,15 @@
     <lastmod>2023-01-05T20:55:11+08:00</lastmod>
   </url><url>
     <loc>https://noobt-tt.github.io/life/first/</loc>
+    <lastmod>2022-10-23T23:26:42+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/categories/life/</loc>
+    <lastmod>2022-10-23T23:26:42+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/life/</loc>
+    <lastmod>2022-10-23T23:26:42+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/tags/mood/</loc>
     <lastmod>2022-10-23T23:26:42+08:00</lastmod>
   </url><url>
     <loc>https://noobt-tt.github.io/archives/</loc>
