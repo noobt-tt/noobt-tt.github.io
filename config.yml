@@ -101,7 +101,7 @@ params:
         url: posts/exp
 
   label: # 左上角图标
-    text: "Sulv's Blog"
+    text: "Xiaoli's Blog"
     icon: "img/Q.gif"
     iconHeight: 35
 
