@@ -34,10 +34,6 @@ menu:
       name: 搜索
       url: search
       weight: 1
-    - identifier: posts
-      name: 文章
-      url: posts
-      weight: 3
     - identifier: tags
       name: 标签
       url: tags
@@ -67,7 +63,7 @@ params:
   ShowReadingTime: true      # 阅读时间
   # disableSpecialistPost: true
   displayFullLangName: true
-  ShowPostNavLinks: false    # 上一篇下一篇
+  ShowPostNavLinks: true    # 上一篇下一篇
   ShowBreadCrumbs: false      # 路径
   ShowCodeCopyButtons: true
   hideFooter: false # 隐藏页脚
@@ -76,7 +72,7 @@ params:
   ShowLastMod: true #显示文章更新时间
 
   ShowToc: true # 显示目录
-  TocOpen: false # 自动展开目录
+  TocOpen: true # 自动展开目录
 
   extendCodeBackground: false # 代码块是否自动横向展开
 
