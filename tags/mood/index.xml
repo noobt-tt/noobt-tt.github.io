@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>mood on noobt-tt</title>
+    <title>mood on Xiaoli&#39;s Blog</title>
     <link>https://noobt-tt.github.io/tags/mood/</link>
-    <description>Recent content in mood on noobt-tt</description>
-    <image>
-      <url>https://noobt-tt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://noobt-tt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <description>Recent content in mood on Xiaoli&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 23 Oct 2022 23:26:42 +0800</lastBuildDate><atom:link href="https://noobt-tt.github.io/tags/mood/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Fri, 08 Dec 2023 16:57:46 +0800</lastBuildDate><atom:link href="https://noobt-tt.github.io/tags/mood/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>https://noobt-tt.github.io/life/first/</link>
+      <title>20231208</title>
+      <link>https://noobt-tt.github.io/posts/life/20231208/</link>
+      <pubDate>Fri, 08 Dec 2023 16:57:46 +0800</pubDate>
+      
+      <guid>https://noobt-tt.github.io/posts/life/20231208/</guid>
+      <description>意味着一时兴起，心血来潮，念头总比行动多。</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://noobt-tt.github.io/posts/life/hello_world/</link>
       <pubDate>Sun, 23 Oct 2022 23:26:42 +0800</pubDate>
       
-      <guid>https://noobt-tt.github.io/life/first/</guid>
-      <description>在一个周日的漆黑的夜晚。
-小李的第一篇博客横空出世。
-这到底意味着什么?
-2023-10-23来写答案吧!</description>
+      <guid>https://noobt-tt.github.io/posts/life/hello_world/</guid>
+      <description>在一个周日的漆黑的夜晚。 小李的第一篇博客横空出世。 这到底意味着什么? 2023-10-23来写答案吧!</description>
     </item>
     
   </channel>

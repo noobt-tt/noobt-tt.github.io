@@ -2,25 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://noobt-tt.github.io/posts/life/20231208/</loc>
+    <lastmod>2023-12-08T16:57:46+08:00</lastmod>
+  </url><url>
     <loc>https://noobt-tt.github.io/categories/</loc>
-    <lastmod>2023-02-02T17:45:42+08:00</lastmod>
+    <lastmod>2023-12-08T16:57:46+08:00</lastmod>
   </url><url>
-    <loc>https://noobt-tt.github.io/tools/iterm2_hole/</loc>
-    <lastmod>2023-02-02T17:45:42+08:00</lastmod>
+    <loc>https://noobt-tt.github.io/categories/life/</loc>
+    <lastmod>2023-12-08T16:57:46+08:00</lastmod>
   </url><url>
-    <loc>https://noobt-tt.github.io/tags/iterm2-use/</loc>
-    <lastmod>2023-02-02T17:45:42+08:00</lastmod>
+    <loc>https://noobt-tt.github.io/tags/mood/</loc>
+    <lastmod>2023-12-08T16:57:46+08:00</lastmod>
   </url><url>
-    <loc>https://noobt-tt.github.io/</loc>
-    <lastmod>2023-02-02T17:45:42+08:00</lastmod>
+    <loc>https://noobt-tt.github.io/posts/</loc>
+    <lastmod>2023-12-08T16:57:46+08:00</lastmod>
   </url><url>
     <loc>https://noobt-tt.github.io/tags/</loc>
+    <lastmod>2023-12-08T16:57:46+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/</loc>
+    <lastmod>2023-12-08T16:57:46+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/posts/life/</loc>
+    <lastmod>2023-12-08T16:57:46+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/categories/exp/</loc>
+    <lastmod>2023-12-08T16:42:21+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/tags/hugo/</loc>
+    <lastmod>2023-12-08T16:42:21+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/posts/exp/github_hugo_new/</loc>
+    <lastmod>2023-12-08T16:42:21+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/posts/exp/</loc>
+    <lastmod>2023-12-08T16:42:21+08:00</lastmod>
+  </url><url>
+    <loc>https://noobt-tt.github.io/tags/iterm2/</loc>
     <lastmod>2023-02-02T17:45:42+08:00</lastmod>
   </url><url>
-    <loc>https://noobt-tt.github.io/categories/tools/</loc>
-    <lastmod>2023-02-02T17:45:42+08:00</lastmod>
-  </url><url>
-    <loc>https://noobt-tt.github.io/tools/</loc>
+    <loc>https://noobt-tt.github.io/posts/exp/iterm2_hole/</loc>
     <lastmod>2023-02-02T17:45:42+08:00</lastmod>
   </url><url>
     <loc>https://noobt-tt.github.io/study/</loc>
@@ -32,23 +53,24 @@
     <loc>https://noobt-tt.github.io/tags/teacher-qualification-certificate/</loc>
     <lastmod>2023-01-05T20:55:11+08:00</lastmod>
   </url><url>
+    <loc>https://noobt-tt.github.io/posts/study/%E6%95%99%E8%B5%84%E7%B3%BB%E5%88%97---%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87/</loc>
+    <lastmod>2023-01-05T20:55:11+08:00</lastmod>
+  </url><url>
     <loc>https://noobt-tt.github.io/study/%E6%95%99%E8%B5%84%E7%B3%BB%E5%88%97---%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87/</loc>
     <lastmod>2023-01-05T20:55:11+08:00</lastmod>
   </url><url>
-    <loc>https://noobt-tt.github.io/life/first/</loc>
-    <lastmod>2022-10-23T23:26:42+08:00</lastmod>
+    <loc>https://noobt-tt.github.io/posts/study/</loc>
+    <lastmod>2023-01-05T20:55:11+08:00</lastmod>
   </url><url>
-    <loc>https://noobt-tt.github.io/categories/life/</loc>
-    <lastmod>2022-10-23T23:26:42+08:00</lastmod>
-  </url><url>
-    <loc>https://noobt-tt.github.io/life/</loc>
-    <lastmod>2022-10-23T23:26:42+08:00</lastmod>
-  </url><url>
-    <loc>https://noobt-tt.github.io/tags/mood/</loc>
+    <loc>https://noobt-tt.github.io/posts/life/hello_world/</loc>
     <lastmod>2022-10-23T23:26:42+08:00</lastmod>
   </url><url>
     <loc>https://noobt-tt.github.io/archives/</loc>
   </url><url>
+    <loc>https://noobt-tt.github.io/search/</loc>
+  </url><url>
     <loc>https://noobt-tt.github.io/series/</loc>
+  </url><url>
+    <loc>https://noobt-tt.github.io/posts/read/</loc>
   </url>
 </urlset>

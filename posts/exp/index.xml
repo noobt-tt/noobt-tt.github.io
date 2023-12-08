@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>经验 on Xiaoli&#39;s Blog</title>
+    <link>https://noobt-tt.github.io/posts/exp/</link>
+    <description>Recent content in 经验 on Xiaoli&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 08 Dec 2023 16:42:21 +0800</lastBuildDate><atom:link href="https://noobt-tt.github.io/posts/exp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo--问题记录</title>
+      <link>https://noobt-tt.github.io/posts/exp/github_hugo_new/</link>
+      <pubDate>Fri, 08 Dec 2023 16:42:21 +0800</pubDate>
+      
+      <guid>https://noobt-tt.github.io/posts/exp/github_hugo_new/</guid>
+      <description>问题 部署到github时，action失败 失败提示 &amp;quot;The process &#39;/usr/bin/git&#39; failed with exit code 128&amp;quot; 可能原因： token过期。需要在主页-&amp;gt;settings-&amp;gt;Developer Settings-&amp;gt;Personal access tokens重新生成。并且在项目-&amp;gt;settings-&amp;gt;Secrets and Variables-&amp;gt;actions 中配置。</description>
+    </item>
+    
+    <item>
+      <title>iterm2--问题记录</title>
+      <link>https://noobt-tt.github.io/posts/exp/iterm2_hole/</link>
+      <pubDate>Thu, 02 Feb 2023 17:45:42 +0800</pubDate>
+      
+      <guid>https://noobt-tt.github.io/posts/exp/iterm2_hole/</guid>
+      <description>问题 rz上传文件成功，但是在当前目录无法找到所上传文件 rz上传文件至服务器时，默认会上传到当前目录。 若显示上传成功，但无法找到该文件，与连接服务器的方式有关。 检查是否连接时使用了expect脚本，需要修改为: ssh xxx.xxx.xxx 的连接方式。</description>
+    </item>
+    
+  </channel>
+</rss>
