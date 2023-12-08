@@ -1,20 +1,18 @@
 ---
-title: "iterm2--踩坑记录"
+title: "iterm2--问题记录"
 date: 2023-02-02T17:45:42+08:00
 draft: false
 
 categories:
-- tools
+- exp
 
 tags:
-- iterm2-use
+- iterm2
 ---
-
-[toc]
 
 # 问题
 
-## 1. rz上传文件成功，但是在当前目录无法找到所上传文件
+## rz上传文件成功，但是在当前目录无法找到所上传文件
 
 -  rz上传文件至服务器时，默认会上传到当前目录。
 
