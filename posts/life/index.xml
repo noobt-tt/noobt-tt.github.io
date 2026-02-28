@@ -4,26 +4,26 @@
     <title>生活 on Xiaoli&#39;s Blog</title>
     <link>https://noobt-tt.github.io/posts/life/</link>
     <description>Recent content in 生活 on Xiaoli&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 08 Dec 2023 16:57:46 +0800</lastBuildDate><atom:link href="https://noobt-tt.github.io/posts/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Dec 2023 16:57:46 +0800</lastBuildDate>
+    <atom:link href="https://noobt-tt.github.io/posts/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20231208</title>
       <link>https://noobt-tt.github.io/posts/life/20231208/</link>
       <pubDate>Fri, 08 Dec 2023 16:57:46 +0800</pubDate>
-      
       <guid>https://noobt-tt.github.io/posts/life/20231208/</guid>
-      <description>意味着一时兴起，心血来潮，念头总比行动多。</description>
+      <description>&lt;p&gt;意味着一时兴起，心血来潮，念头总比行动多。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hello World</title>
       <link>https://noobt-tt.github.io/posts/life/hello_world/</link>
       <pubDate>Sun, 23 Oct 2022 23:26:42 +0800</pubDate>
-      
       <guid>https://noobt-tt.github.io/posts/life/hello_world/</guid>
-      <description>在一个周日的漆黑的夜晚。 小李的第一篇博客横空出世。 这到底意味着什么? 2023-10-23来写答案吧!</description>
+      <description>&lt;p&gt;在一个周日的漆黑的夜晚。&lt;/p&gt;
+&lt;p&gt;小李的第一篇博客横空出世。&lt;/p&gt;
+&lt;p&gt;这到底意味着什么?&lt;/p&gt;
+&lt;p&gt;2023-10-23来写答案吧!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

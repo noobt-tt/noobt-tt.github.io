@@ -4,64 +4,88 @@
     <title>Xiaoli&#39;s Blog</title>
     <link>https://noobt-tt.github.io/</link>
     <description>Recent content on Xiaoli&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 08 Dec 2023 16:57:46 +0800</lastBuildDate><atom:link href="https://noobt-tt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Feb 2026 20:55:11 +0800</lastBuildDate>
+    <atom:link href="https://noobt-tt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大模型模型架构--Dense和MoE</title>
+      <link>https://noobt-tt.github.io/posts/study/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84--dense%E5%92%8Cmoe/</link>
+      <pubDate>Fri, 27 Feb 2026 20:55:11 +0800</pubDate>
+      <guid>https://noobt-tt.github.io/posts/study/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84--dense%E5%92%8Cmoe/</guid>
+      <description>&lt;p&gt;Dense: 密集连接模型，每个神经元与前一层的所有神经元都有连接。
+MoE(Mixture of Experts): 混合专家模型，基本特征是稀疏激活的使用。对任何输入，只有模型总参数的一小部分（少数几个&amp;quot;专家&amp;quot;子网络）会被激活并参与计算。&lt;/p&gt;
+&lt;h2 id=&#34;dense&#34;&gt;Dense&lt;/h2&gt;
+&lt;p&gt;以GPT4为代表，架构核心特点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;结构简洁&lt;/strong&gt;：模型内部连接密集，计算流程清晰直观&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;训练稳定&lt;/strong&gt;：全激活模式下梯度传播路径确定，优化过程相对稳定&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;部署成熟&lt;/strong&gt;：硬件加速技术（如CUDA、TPU）对Dense矩阵计算支持完善&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;推理延迟低&lt;/strong&gt;：单一计算路径使延迟较为稳定，适合实时交互场景&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;优点：&lt;/p&gt;</description>
+    </item>
     <item>
       <title>20231208</title>
       <link>https://noobt-tt.github.io/posts/life/20231208/</link>
       <pubDate>Fri, 08 Dec 2023 16:57:46 +0800</pubDate>
-      
       <guid>https://noobt-tt.github.io/posts/life/20231208/</guid>
-      <description>意味着一时兴起，心血来潮，念头总比行动多。</description>
+      <description>&lt;p&gt;意味着一时兴起，心血来潮，念头总比行动多。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>hugo--问题记录</title>
       <link>https://noobt-tt.github.io/posts/exp/github_hugo_new/</link>
       <pubDate>Fri, 08 Dec 2023 16:42:21 +0800</pubDate>
-      
       <guid>https://noobt-tt.github.io/posts/exp/github_hugo_new/</guid>
-      <description>问题 部署到github时，action失败 失败提示 &amp;quot;The process &#39;/usr/bin/git&#39; failed with exit code 128&amp;quot; 可能原因： token过期。需要在主页-&amp;gt;settings-&amp;gt;Developer Settings-&amp;gt;Personal access tokens重新生成。并且在项目-&amp;gt;settings-&amp;gt;Secrets and Variables-&amp;gt;actions 中配置。</description>
+      <description>&lt;h1 id=&#34;问题&#34;&gt;问题&lt;/h1&gt;
+&lt;h2 id=&#34;部署到github时action失败&#34;&gt;部署到github时，action失败&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;失败提示 &lt;code&gt;&amp;quot;The process &#39;/usr/bin/git&#39; failed with exit code 128&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可能原因：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;token过期。需要在&lt;code&gt;主页-&amp;gt;settings-&amp;gt;Developer Settings-&amp;gt;Personal access tokens&lt;/code&gt;重新生成。并且在&lt;code&gt;项目-&amp;gt;settings-&amp;gt;Secrets and Variables-&amp;gt;actions&lt;/code&gt; 中配置。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>iterm2--问题记录</title>
       <link>https://noobt-tt.github.io/posts/exp/iterm2_hole/</link>
       <pubDate>Thu, 02 Feb 2023 17:45:42 +0800</pubDate>
-      
       <guid>https://noobt-tt.github.io/posts/exp/iterm2_hole/</guid>
-      <description>问题 rz上传文件成功，但是在当前目录无法找到所上传文件 rz上传文件至服务器时，默认会上传到当前目录。 若显示上传成功，但无法找到该文件，与连接服务器的方式有关。 检查是否连接时使用了expect脚本，需要修改为: ssh xxx.xxx.xxx 的连接方式。</description>
+      <description>&lt;h1 id=&#34;问题&#34;&gt;问题&lt;/h1&gt;
+&lt;h2 id=&#34;rz上传文件成功但是在当前目录无法找到所上传文件&#34;&gt;rz上传文件成功，但是在当前目录无法找到所上传文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;rz上传文件至服务器时，默认会上传到当前目录。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;若显示&lt;strong&gt;上传成功&lt;/strong&gt;，但无法找到该文件，与连接服务器的方式有关。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;检查是否连接时使用了expect脚本，需要修改为: ssh xxx.xxx.xxx 的连接方式。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>教资----出发！</title>
       <link>https://noobt-tt.github.io/posts/study/%E6%95%99%E8%B5%84%E7%B3%BB%E5%88%97---%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87/</link>
       <pubDate>Thu, 05 Jan 2023 20:55:11 +0800</pubDate>
-      
       <guid>https://noobt-tt.github.io/posts/study/%E6%95%99%E8%B5%84%E7%B3%BB%E5%88%97---%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87/</guid>
-      <description>2023上半年教资考试，拿下！</description>
+      <description>&lt;p&gt;2023上半年教资考试，拿下！&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>教资----出发！</title>
-      <link>https://noobt-tt.github.io/study/%E6%95%99%E8%B5%84%E7%B3%BB%E5%88%97---%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87/</link>
-      <pubDate>Thu, 05 Jan 2023 20:55:11 +0800</pubDate>
-      
-      <guid>https://noobt-tt.github.io/study/%E6%95%99%E8%B5%84%E7%B3%BB%E5%88%97---%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87/</guid>
-      <description>2023上半年教资考试，拿下！</description>
-    </item>
-    
     <item>
       <title>Hello World</title>
       <link>https://noobt-tt.github.io/posts/life/hello_world/</link>
       <pubDate>Sun, 23 Oct 2022 23:26:42 +0800</pubDate>
-      
       <guid>https://noobt-tt.github.io/posts/life/hello_world/</guid>
-      <description>在一个周日的漆黑的夜晚。 小李的第一篇博客横空出世。 这到底意味着什么? 2023-10-23来写答案吧!</description>
+      <description>&lt;p&gt;在一个周日的漆黑的夜晚。&lt;/p&gt;
+&lt;p&gt;小李的第一篇博客横空出世。&lt;/p&gt;
+&lt;p&gt;这到底意味着什么?&lt;/p&gt;
+&lt;p&gt;2023-10-23来写答案吧!&lt;/p&gt;</description>
     </item>
-    
-    
-    
   </channel>
 </rss>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>学习 on Xiaoli&#39;s Blog</title>
-    <link>https://noobt-tt.github.io/posts/study/</link>
-    <description>Recent content in 学习 on Xiaoli&#39;s Blog</description>
+    <title>LLM on Xiaoli&#39;s Blog</title>
+    <link>https://noobt-tt.github.io/tags/llm/</link>
+    <description>Recent content in LLM on Xiaoli&#39;s Blog</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 27 Feb 2026 20:55:11 +0800</lastBuildDate>
-    <atom:link href="https://noobt-tt.github.io/posts/study/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://noobt-tt.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>大模型模型架构--Dense和MoE</title>
       <link>https://noobt-tt.github.io/posts/study/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84--dense%E5%92%8Cmoe/</link>
@@ -24,13 +24,6 @@ MoE(Mixture of Experts): 混合专家模型，基本特征是稀疏激活的使�
 &lt;li&gt;&lt;strong&gt;推理延迟低&lt;/strong&gt;：单一计算路径使延迟较为稳定，适合实时交互场景&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;优点：&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>教资----出发！</title>
-      <link>https://noobt-tt.github.io/posts/study/%E6%95%99%E8%B5%84%E7%B3%BB%E5%88%97---%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87/</link>
-      <pubDate>Thu, 05 Jan 2023 20:55:11 +0800</pubDate>
-      <guid>https://noobt-tt.github.io/posts/study/%E6%95%99%E8%B5%84%E7%B3%BB%E5%88%97---%E5%89%8D%E6%9C%9F%E5%87%86%E5%A4%87/</guid>
-      <description>&lt;p&gt;2023上半年教资考试，拿下！&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

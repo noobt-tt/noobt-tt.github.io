@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>hugo on Xiaoli&#39;s Blog</title>
+    <title>Hugo on Xiaoli&#39;s Blog</title>
     <link>https://noobt-tt.github.io/tags/hugo/</link>
-    <description>Recent content in hugo on Xiaoli&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Hugo on Xiaoli&#39;s Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 08 Dec 2023 16:42:21 +0800</lastBuildDate><atom:link href="https://noobt-tt.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Dec 2023 16:42:21 +0800</lastBuildDate>
+    <atom:link href="https://noobt-tt.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo--问题记录</title>
       <link>https://noobt-tt.github.io/posts/exp/github_hugo_new/</link>
       <pubDate>Fri, 08 Dec 2023 16:42:21 +0800</pubDate>
-      
       <guid>https://noobt-tt.github.io/posts/exp/github_hugo_new/</guid>
-      <description>问题 部署到github时，action失败 失败提示 &amp;quot;The process &#39;/usr/bin/git&#39; failed with exit code 128&amp;quot; 可能原因： token过期。需要在主页-&amp;gt;settings-&amp;gt;Developer Settings-&amp;gt;Personal access tokens重新生成。并且在项目-&amp;gt;settings-&amp;gt;Secrets and Variables-&amp;gt;actions 中配置。</description>
+      <description>&lt;h1 id=&#34;问题&#34;&gt;问题&lt;/h1&gt;
+&lt;h2 id=&#34;部署到github时action失败&#34;&gt;部署到github时，action失败&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;失败提示 &lt;code&gt;&amp;quot;The process &#39;/usr/bin/git&#39; failed with exit code 128&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可能原因：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;token过期。需要在&lt;code&gt;主页-&amp;gt;settings-&amp;gt;Developer Settings-&amp;gt;Personal access tokens&lt;/code&gt;重新生成。并且在&lt;code&gt;项目-&amp;gt;settings-&amp;gt;Secrets and Variables-&amp;gt;actions&lt;/code&gt; 中配置。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>
